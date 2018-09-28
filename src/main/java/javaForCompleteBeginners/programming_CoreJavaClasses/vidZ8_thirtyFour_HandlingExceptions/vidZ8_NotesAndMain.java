@@ -1,0 +1,4 @@
+package javaForCompleteBeginners.programming_CoreJavaClasses.vidZ8_thirtyFour_HandlingExceptions;
+
+public class vidZ8_NotesAndMain {
+}
